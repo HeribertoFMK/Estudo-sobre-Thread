@@ -1,0 +1,15 @@
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.exe
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.deps.json
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.runtimeconfig.json
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.runtimeconfig.dev.json
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.dll
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\ref\_05_ThreadSafe.dll
+C:\CursoC#\_02_thread\_05_thread\bin\Debug\net5.0\_05_ThreadSafe.pdb
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.AssemblyInfoInputs.cache
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.AssemblyInfo.cs
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.csproj.CoreCompileInputs.cache
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.dll
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\ref\_05_ThreadSafe.dll
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.pdb
+C:\CursoC#\_02_thread\_05_thread\obj\Debug\net5.0\_05_ThreadSafe.genruntimeconfig.cache

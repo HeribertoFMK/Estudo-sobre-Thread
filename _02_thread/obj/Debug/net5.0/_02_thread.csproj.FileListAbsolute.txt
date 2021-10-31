@@ -1,0 +1,16 @@
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.csproj.AssemblyReference.cache
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.AssemblyInfoInputs.cache
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.AssemblyInfo.cs
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.csproj.CoreCompileInputs.cache
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.exe
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.deps.json
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.runtimeconfig.json
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.runtimeconfig.dev.json
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.dll
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\ref\_02_thread.dll
+C:\CursoC#\_02_thread\_02_thread\bin\Debug\net5.0\_02_thread.pdb
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.dll
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\ref\_02_thread.dll
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.pdb
+C:\CursoC#\_02_thread\_02_thread\obj\Debug\net5.0\_02_thread.genruntimeconfig.cache

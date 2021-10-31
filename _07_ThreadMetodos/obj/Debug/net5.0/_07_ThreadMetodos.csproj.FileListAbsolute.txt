@@ -1,0 +1,15 @@
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.AssemblyInfoInputs.cache
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.AssemblyInfo.cs
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.csproj.CoreCompileInputs.cache
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.exe
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.deps.json
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.runtimeconfig.json
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.runtimeconfig.dev.json
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.dll
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\ref\_07_ThreadMetodos.dll
+C:\CursoC#\_02_thread\_07_ThreadMetodos\bin\Debug\net5.0\_07_ThreadMetodos.pdb
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.dll
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\ref\_07_ThreadMetodos.dll
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.pdb
+C:\CursoC#\_02_thread\_07_ThreadMetodos\obj\Debug\net5.0\_07_ThreadMetodos.genruntimeconfig.cache
